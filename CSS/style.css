@@ -737,6 +737,19 @@
 }
 
 @media screen and (max-width: 500px) {
+  section {
+    column-gap: 6%;
+  }
+  #under .right-side-main img {
+    height: 80%;
+    width: 70%;
+  }
+  .socialImg img {
+    width: 8.5vw;
+  }
+  .socialImg img:hover {
+    width: 10vw;
+  }
   #whatsapplogo img {
     padding: 0 1% 0 0;
     width: 11vw;
