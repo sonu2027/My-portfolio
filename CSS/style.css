@@ -84,7 +84,7 @@
   }
   #skill {
     background-color: rgb(17, 17, 38);
-    margin: 0 25%;
+    margin: 0 6%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 2rem 2rem;
