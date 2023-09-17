@@ -86,7 +86,7 @@
     background-color: rgb(17, 17, 38);
     margin: 0 25%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 2rem 2rem;
     padding: 2%;
     border-radius: 0.8rem;
@@ -696,8 +696,11 @@
   .card .box img {
     height: 32vh;
   }
+  .card2 .box2{
+    width: 93%;
+  }
   #project .box {
-    width: 80%;
+    width: 87%;
   }
   .project p {
     font-size: 7vw;
